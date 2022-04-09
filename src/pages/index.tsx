@@ -9,7 +9,7 @@ import styles from './home.module.scss'
 // Formas principais de fazer chamada API no React:
 // * Client-side
 // * Server-side
-// * Static site Generation
+// * Static site Generation 
 interface HomeProps {
   product: {
     priceId: string;
